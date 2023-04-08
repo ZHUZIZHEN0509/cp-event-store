@@ -1,0 +1,25 @@
+{
+  "name": "cp-event-store",
+  "version": "1.0.0",
+  "description": "Cross-platform eventBus and eventStore",
+  "main": "src/index.js",
+  "scripts": {
+    "test-eventBus": "node ./src/test/test-event-bus.js",
+    "test-eventStore": "node ./src/test/test-event-store.js"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "uniapp",
+    "WeChat Mini Program"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZHUZIZHEN0509/cp-event-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZHUZIZHEN0509/cp-event-store/issues"
+  },
+  "author": "zhuzizhen",
+  "license": "MIT"
+}
